@@ -6,5 +6,5 @@ utils.py - often used methods (including those from previous labs)
 
 ```bash
 # will execute bunch of tests
-$ python3 lab4
+$ python3 lab4_test.py
 ```
